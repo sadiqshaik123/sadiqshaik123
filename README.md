@@ -54,3 +54,10 @@
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 </div><br/>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiqshaik123&show_icons=true&locale=en&layout=compact" alt="sadiqshaik123" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadiqshaik123&show_icons=true&locale=en" alt="sadiqshaik123" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqshaik123&" alt="sadiqshaik123" /></p>
