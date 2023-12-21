@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Web Development, Java, DBMS, MySQL**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="http://sadiqmagbul.host20.uk/" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="http://sadiqshaik.in" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/His
 
